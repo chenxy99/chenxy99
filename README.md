@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Xianyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxy99)](https://github.com/chenxy99/github-readme-stats)
 <!--
 **chenxy99/chenxy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
