@@ -18,13 +18,13 @@ I received my master's and bachelor's degrees in Electrical Engineering from SYS
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=chenxy99&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=buefy&cache_seconds=1800&v=1"
-        alt="chenxy99 GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=chenxy99&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=buefy&cache_seconds=1800&v=2"
+        alt="chenxy99's GitHub stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&theme=buefy&langs_count=8&cache_seconds=1800&v=1"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&theme=buefy&langs_count=8&cache_seconds=1800&v=2"
         alt="Top languages"
       />
     </td>
