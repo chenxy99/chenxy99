@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=280&section=header&text=Xianyu%20Chen&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=42&desc=CS%20PhD%20%7C%20Vision%20%26%20Language%20%7C%20LLM%20%7C%20Human-Centered%20AI&descSize=20&descAlignY=62&descAlign=50&stroke=00D9FF&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=280&section=header&text=Xianyu%20Chen&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=42&desc=CS%20PhD%20%7C%20Vision%20%26%20Language%20%7C%20LLM%20%7C%20Human-Centered%20AI&descSize=20&descAlignY=62&descAlign=50)
 
 <div align="center">
 
@@ -130,12 +130,24 @@ me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 
 <div align="center">
 
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&screen_effect=true&theme=blue_chill">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&screen_effect=true&theme=blue_chill">
+</picture>
 
 <br/>
 
-<img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
-<img height="165" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&langs_count=8">
+  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=default&hide_border=true">
+  <img height="165" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
+</picture>
 
 </div>
 
@@ -145,7 +157,11 @@ me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 
 <div align="center">
 
-<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
+</picture>
 
 </div>
 
