@@ -30,7 +30,7 @@ class PhDResearcher:
         self.research   = [
             "Vision & Language",
             "Visual Scanpath Prediction",
-            "LLM + Vision (GazeXplain)",
+            "LLM + Vision",
             "Human Attention Modeling",
             "Few-Shot / Multimodal Learning",
         ]
