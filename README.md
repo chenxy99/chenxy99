@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=280&section=header&text=Xianyu%20Chen&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=42&desc=CS%20PhD%20%7C%20Vision%20%26%20Language%20%7C%20LLM%20%7C%20Human-Centered%20AI&descSize=20&descAlignY=62&descAlign=50)
+<img src="assets/header.svg" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -185,4 +185,4 @@ me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=120&section=footer)
+<img src="assets/footer.svg" width="100%" alt="footer"/>
