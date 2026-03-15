@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+I'm+Xianyu+Chen+%F0%9F%91%8B;CS+PhD+%40+University+of+Minnesota;Vision+%26+Language+%7C+Human+Attention;Few-Shot+Learning+%7C+Scanpath+Prediction" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+I'm+Xianyu+Chen+%F0%9F%91%8B;CS+PhD+%40+University+of+Minnesota;Vision+%26+Language+%7C+LLM+%7C+Human+Attention;Scanpath+Prediction+%7C+Human-Centered+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 class PhDResearcher:
     def __init__(self):
         self.name       = "Xianyu Chen"
-        self.position   = "CS PhD Candidate @ University of Minnesota Twin Cities"
+        self.position   = "CS PhD @ University of Minnesota Twin Cities"
         self.advisor    = "Prof. Catherine Qi Zhao"
         self.office     = "Keller 6-240"
         self.research   = [
@@ -52,6 +52,7 @@ me = PhDResearcher()
 | 👁️ Visual Scanpath | Predicting & explaining where humans look |
 | 🗣️ Vision & Language | Multimodal reasoning, VQA, image captioning |
 | 🎯 Few-Shot Learning | Self-distillation, novel object recognition |
+| 💬 LLM + Vision | Natural language explanations of visual attention |
 | 🤖 Human-Centered AI | Attention-aware, individualized models |
 
 ---
@@ -65,7 +66,7 @@ me = PhDResearcher()
 
 | Venue | Year | Title |
 |-------|------|-------|
-| **ECCV Oral** 🏆 | 2024 | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths |
+| **ECCV Oral** 🏆 | 2024 | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths `LLM` |
 | **CVPR** | 2024 | Beyond Average: Individualized Visual Scanpath Prediction |
 | **TPAMI** _(IF 23.6)_ | 2024 | Every Problem, Every Step, All In Focus |
 | **CVPR** | 2022 | VisualHow: Multimodal Problem Solving |
@@ -112,6 +113,7 @@ me = PhDResearcher()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
