@@ -71,7 +71,7 @@ me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 
 | Venue | Year | Title |
 |-------|------|-------|
-| **ECCV Oral** 🏆 | 2024 | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths `LLM` |
+| **ECCV Oral** 🏆 | 2024 | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths |
 | **CVPR** | 2024 | Beyond Average: Individualized Visual Scanpath Prediction |
 | **TPAMI** _(IF 23.6)_ | 2024 | Every Problem, Every Step, All In Focus |
 | **CVPR** | 2022 | VisualHow: Multimodal Problem Solving |
