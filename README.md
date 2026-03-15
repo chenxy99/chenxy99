@@ -1,20 +1,26 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=280&section=header&text=Xianyu%20Chen&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=42&desc=CS%20PhD%20%7C%20Vision%20%26%20Language%20%7C%20LLM%20%7C%20Human-Centered%20AI&descSize=20&descAlignY=62&descAlign=50&stroke=00D9FF&strokeWidth=1)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+I'm+Xianyu+Chen+%F0%9F%91%8B;CS+PhD+%40+University+of+Minnesota;Vision+%26+Language+%7C+LLM+%7C+Human+Attention;Scanpath+Prediction+%7C+Human-Centered+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=45&lines=%24+whoami+%E2%86%92+CS+PhD+%40+University+of+Minnesota;%24+research+%E2%86%92+Vision+%26+Language+%7C+LLM+%7C+Scanpath;%24+status+%E2%86%92+Building+human-centered+AI+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![PhD](https://img.shields.io/badge/PhD-UMN_Twin_Cities-7A0019?style=for-the-badge&logo=academia&logoColor=white)](https://twin-cities.umn.edu/)
-[![Research](https://img.shields.io/badge/Vision_%26_Language-Human_Centered_AI-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white)](https://scholar.google.com/citations?user=gjH1-CcAAAAJ)
+[![Vision & LLM](https://img.shields.io/badge/Vision_%26_LLM-Human_Centered_AI-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white)](https://scholar.google.com/citations?user=gjH1-CcAAAAJ)
 [![Profile Views](https://komarev.com/ghpvc/?username=chenxy99&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)](https://github.com/chenxy99)
 
 </div>
 
 ---
 
-## 🧑‍🔬 About Me
+## 🧑‍💻 About Me
 
 ```python
+┌──────────────────────────────────────────────────────────────┐
+│                     xianyu@umn:~$ python3                    │
+└──────────────────────────────────────────────────────────────┘
+
 class PhDResearcher:
     def __init__(self):
         self.name       = "Xianyu Chen"
@@ -24,6 +30,7 @@ class PhDResearcher:
         self.research   = [
             "Vision & Language",
             "Visual Scanpath Prediction",
+            "LLM + Vision (GazeXplain)",
             "Human Attention Modeling",
             "Few-Shot / Multimodal Learning",
         ]
@@ -31,36 +38,34 @@ class PhDResearcher:
 
     def contact(self):
         return {
-            "email"  : "chen6582 [at] umn [dot] edu",
-            "scholar": "https://scholar.google.com/citations?user=gjH1-CcAAAAJ",
-            "github" : "https://github.com/chenxy99",
+            "email"   : "chen6582 [at] umn [dot] edu",
+            "scholar" : "https://scholar.google.com/citations?user=gjH1-CcAAAAJ",
+            "github"  : "https://github.com/chenxy99",
             "linkedin": "https://www.linkedin.com/in/xianyu-chen-a27354163/",
         }
 
 me = PhDResearcher()
+me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 ```
 
 ---
 
 ## 🔬 Research Highlights
 
-> Developing **human-centered AI** systems at the intersection of **vision, language, and cognition** —
-> teaching machines to see the world the way humans do.
-
 | Area | Focus |
 |------|-------|
-| 👁️ Visual Scanpath | Predicting & explaining where humans look |
-| 🗣️ Vision & Language | Multimodal reasoning, VQA, image captioning |
-| 🎯 Few-Shot Learning | Self-distillation, novel object recognition |
-| 💬 LLM + Vision | Natural language explanations of visual attention |
-| 🤖 Human-Centered AI | Attention-aware, individualized models |
+| 👁️ **Visual Scanpath** | Predicting & explaining where humans look |
+| 🗣️ **Vision & Language** | Multimodal reasoning, VQA, image captioning |
+| 💬 **LLM + Vision** | Natural language explanations of visual attention |
+| 🎯 **Few-Shot Learning** | Self-distillation, novel object recognition |
+| 🤖 **Human-Centered AI** | Attention-aware, individualized models |
 
 ---
 
 ## 📄 Selected Publications
 
 <details>
-<summary><b>📌 Click to expand (7 papers at ECCV / CVPR / TPAMI / IJCAI)</b></summary>
+<summary><b>📌 Click to expand — 7 papers at ECCV / CVPR / TPAMI / IJCAI</b></summary>
 
 <br/>
 
@@ -125,25 +130,12 @@ me = PhDResearcher()
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&theme=summer">
-</picture>
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=chenxy99&screen_effect=true&theme=blue_chill">
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&langs_count=8">
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=default&hide_border=true">
-  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
-</picture>
+<img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxy99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8">
+<img height="165" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chenxy99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF">
 
 </div>
 
@@ -153,11 +145,7 @@ me = PhDResearcher()
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
-</picture>
+<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
 
 </div>
 
@@ -181,8 +169,4 @@ me = PhDResearcher()
 
 </div>
 
----
-
-<div align="center">
-  <i>⭐ If you find my work useful, a star means a lot — thanks for visiting!</i>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=120&section=footer)
