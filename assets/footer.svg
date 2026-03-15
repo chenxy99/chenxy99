@@ -1,0 +1,20 @@
+<svg width="1200" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.15" />
+      <stop offset="50%" style="stop-color:#7B2FBE;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="wave2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7B2FBE;stop-opacity:0.2" />
+      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#7B2FBE;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="#0D1117"/>
+  <path d="M0,60 C200,30 400,80 600,50 C800,20 1000,70 1200,40 L1200,0 L0,0 Z"
+        fill="url(#wave1grad)"/>
+  <path d="M0,80 C150,55 350,90 550,65 C750,40 950,80 1200,58 L1200,0 L0,0 Z"
+        fill="url(#wave2grad)"/>
+</svg>
