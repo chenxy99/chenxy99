@@ -159,9 +159,9 @@ me.say_hi()  # >>> "Thanks for dropping by! Always happy to collaborate 🤝"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=chenxy99&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <img alt="trophies" src="https://github-trophies.vercel.app/?username=chenxy99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7">
 </picture>
 
 </div>
